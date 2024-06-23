@@ -1,5 +1,5 @@
 
-# Assignment 3 - Friends in a Scandal
+# Enron Email Analysis
 
 ## Overview
 
