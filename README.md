@@ -54,3 +54,6 @@ Email address of the individual (or EXIT to quit): notme@usfca.edu
 Email address (notme@usfca.edu) not found in the dataset.
 Email address of the individual (or EXIT to quit): EXIT
 ```
+## Warning
+
+For academic honesty, do not replicate or use this code for coursework or assessments.
